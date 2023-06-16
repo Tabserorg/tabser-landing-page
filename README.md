@@ -9,7 +9,7 @@ tabser home page is the platform main page that includes general information abo
 ## Component UI/UX Mockup
 
 ## Core Features
-### Display Tabser General Info
+### 1. Display Tabser General Info
 
 ## Installation
 
