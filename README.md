@@ -1,5 +1,5 @@
-# tabser-home-page
-tabser home page is the platform main page that includes general information about the organization team, about, goals, contacts, and redirections
+# tabser-landing-page
+tabser landing page is the platform main page that includes general information about the organization team, about, goals, contacts, and redirections
 
 ## Features
 |ID  |Feature    |Description|Feature Size|Completion|Depend On|Core Feature
